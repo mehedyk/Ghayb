@@ -4,8 +4,8 @@
 
 Rust wrapper around Microsoft Edge WebView2 for a fully featured, secure browser.
 
-###Developer
-* **Mehedyk
+## Developer
+**Mehedyk**
 
 ### Features
 
