@@ -4,8 +4,8 @@
 
 Minimal, secure browser proof-of-concept using `eframe` + `egui`.
 
-##Developer
-* **Mehedyk
+## Developer
+**Mehedyk**
 
 ### Features
 
